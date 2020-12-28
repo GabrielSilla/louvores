@@ -25,3 +25,4 @@ Documento destinado a arquivar as músicas que a equipe já tocou.
 &bull; Caia Fogo Do Céu - **Fernandinho** </br>
 &bull; Quem Dizes Que Sou - **Hillsong Em Português** </br>
 &bull; Pai Nosso - **Pedras Vivas** </br>
+&bull; Não Há Um Nome Igual - **Ministério Avivah (Versão Videira)** </br>
